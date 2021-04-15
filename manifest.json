@@ -1,0 +1,6 @@
+{
+  "name": "twitBetter",
+  "description": "Removes the "What's better" menu from twitter",
+  "version": "1.0",
+  "manifest_version": 3
+}
